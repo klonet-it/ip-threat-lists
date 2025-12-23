@@ -1,4 +1,4 @@
-# 🛡️ Public IP Blacklists – Auto-Updated
+# 🛡️ Public IP Blacklists 
 
 This repository provides a curated and automatically updated set of IP blacklists from well-known public sources.
 
