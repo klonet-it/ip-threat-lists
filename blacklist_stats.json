@@ -1,34 +1,34 @@
 {
   "active": {
-    "ip_count": 115317,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "ip_count": 117942,
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "firehol": {
     "ip_count": 4582,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "firehol_level2": {
     "ip_count": 16039,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "spamhaus_drop": {
     "ip_count": 1672,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "urlhaus": {
-    "ip_count": 13337,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "ip_count": 13298,
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "torproject": {
-    "ip_count": 1375,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "ip_count": 1376,
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "blocklist_apache": {
-    "ip_count": 9162,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "ip_count": 9164,
+    "last_updated": "2026-07-30T08:15:09.665269"
   },
   "threatfox_csv": {
-    "ip_count": 1862,
-    "last_updated": "2026-07-30T01:55:45.448299"
+    "ip_count": 1860,
+    "last_updated": "2026-07-30T08:15:09.665269"
   }
 }
