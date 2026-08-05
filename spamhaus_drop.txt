@@ -1673,7 +1673,7 @@
 96.31.94.0/24 ; SBL679448
 98.98.195.0/24 ; SBL656003
 ; EOF
-; Expires: Wed, 05 Aug 2026 11:14:02 GMT
+; Expires: Wed, 05 Aug 2026 19:44:02 GMT
 ; Last-Modified: Wed, 05 Aug 2026 09:52:36 GMT
 ; Spamhaus DROP List 2026/08/05 - (c) 2026 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
