@@ -199,7 +199,7 @@
 119.232.0.0/16 ; SBL230571
 119.27.192.0/18 ; SBL675596
 119.58.0.0/16 ; SBL286278
-119.82.12.0/22 ; SBL419661
+119.82.8.0/21 ; SBL419661
 120.128.128.0/17 ; SBL266080
 120.128.192.0/18 ; SBL253828
 120.129.0.0/17 ; SBL251953
@@ -1683,7 +1683,7 @@
 96.31.94.0/24 ; SBL679448
 98.98.195.0/24 ; SBL656003
 ; EOF
-; Expires: Sat, 08 Aug 2026 07:44:02 GMT
-; Last-Modified: Sat, 08 Aug 2026 06:36:22 GMT
-; Spamhaus DROP List 2026/08/08 - (c) 2026 The Spamhaus Project SLU
+; Expires: Mon, 10 Aug 2026 03:14:02 GMT
+; Last-Modified: Mon, 10 Aug 2026 02:04:18 GMT
+; Spamhaus DROP List 2026/08/10 - (c) 2026 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
