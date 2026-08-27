@@ -1456,6 +1456,7 @@
 45.66.118.0/24 ; SBL693981
 45.74.10.0/24 ; SBL682262
 45.74.16.0/24 ; SBL677596
+45.74.21.0/24 ; SBL699814
 45.74.3.0/24 ; SBL699754
 45.74.40.0/24 ; SBL692243
 45.74.47.0/24 ; SBL692150
@@ -1703,7 +1704,7 @@
 96.31.94.0/24 ; SBL679448
 98.98.195.0/24 ; SBL656003
 ; EOF
-; Expires: Wed, 26 Aug 2026 10:44:02 GMT
-; Last-Modified: Wed, 26 Aug 2026 09:43:53 GMT
-; Spamhaus DROP List 2026/08/26 - (c) 2026 The Spamhaus Project SLU
+; Expires: Thu, 27 Aug 2026 22:14:02 GMT
+; Last-Modified: Thu, 27 Aug 2026 17:47:35 GMT
+; Spamhaus DROP List 2026/08/27 - (c) 2026 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
